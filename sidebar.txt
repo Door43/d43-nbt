@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nbt:home|Door43 (nbt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nbt|d43-nbt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nbt/archive/master.zip|d43-nbt.zip]]
+
+**Recent Changes**
+{{changes>ns = nbt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nbt|Ethnologue data]]
+
